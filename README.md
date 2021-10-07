@@ -4,5 +4,5 @@
 
  La verdad es que git esta chulo, sobre todo por el hecho de las comparticiones etc.
 
- Pero de momento lo encuentro **super cargante** :D
+ Pero de momento lo encuentro **bastante duro** :D
 
